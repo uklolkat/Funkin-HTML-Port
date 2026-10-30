@@ -41,7 +41,7 @@
     {
       "name": "singLEFT",
       "prefix": "right",
-      "offsets": [-120, 20]
+      "offsets": [120, 20]
     },
     {
       "name": "singDOWN",
@@ -56,7 +56,7 @@
     {
       "name": "singRIGHT",
       "prefix": "left",
-      "offsets": [50, 5]
+      "offsets": [-50, 5]
     },
     {
       "name": "singLEFTmiss",
