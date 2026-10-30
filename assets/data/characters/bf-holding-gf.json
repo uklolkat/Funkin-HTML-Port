@@ -2,7 +2,7 @@
   "version": "1.0.0",
   "name": "Boyfriend (Holding GF)",
   "assetPath": "characters/bfAndGF",
-  "flipX": true,
+  "flipX": false,
   "renderType": "multisparrow",
   "healthIcon": {
     "id": "bf"
@@ -35,28 +35,28 @@
     },
     {
       "name": "idle",
-      "prefix": "BF idle dance w gf0",
+      "prefix": "idle",
       "offsets": [0, 0]
     },
     {
       "name": "singLEFT",
-      "prefix": "BF NOTE LEFT0",
-      "offsets": [12, 7]
+      "prefix": "right",
+      "offsets": [-120, 20]
     },
     {
       "name": "singDOWN",
-      "prefix": "BF NOTE DOWN0",
-      "offsets": [-10, -10]
+      "prefix": "down",
+      "offsets": [-20, -33]
     },
     {
       "name": "singUP",
-      "prefix": "BF NOTE UP0",
-      "offsets": [-29, 10]
+      "prefix": "up",
+      "offsets": [-46, 48]
     },
     {
       "name": "singRIGHT",
-      "prefix": "BF NOTE RIGHT0",
-      "offsets": [-41, 23]
+      "prefix": "left",
+      "offsets": [50, 5]
     },
     {
       "name": "singLEFTmiss",
